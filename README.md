@@ -1,5 +1,3 @@
-# kesunnai
-https://rakibul-123.github.io/kesunnai/
 <!DOCTYPE html>
 <html lang="en">
 <head>
